@@ -9,4 +9,4 @@ Made using Unity. I also made the visuals (except the free font) and the musics.
 
 /!\ BEWARE /!\
 NOT BALANCED: didn't have the time to test it properly :p
-The musics doesn't really match the ambiance (went a bit overboard, sry :3)
+Also the musics doesn't really match the ambiance (went a bit overboard, sry :3)
