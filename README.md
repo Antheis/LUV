@@ -1,4 +1,4 @@
-# LUV
+# LÜV
 A solo one-week clicker project
 
 A minimalistic clicker where you're a robot exploring the human feelings.
