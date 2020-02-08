@@ -7,6 +7,6 @@ It's really simplistic, a bit ugly, but I had a lot of fun doing it. And it's st
 
 Made using Unity. I also made the visuals (except the free font) and the musics. 
 
-/!\ BEWARE /!\
+/!\ BEWARE /!\\
 NOT BALANCED: didn't have the time to test it properly :p
 Also the musics doesn't really match the ambiance (went a bit overboard, sry :3)
