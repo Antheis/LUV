@@ -84,7 +84,7 @@ public class GameManager : MonoBehaviour
     void FixedUpdate()
     {
         m_feels += m_fps * Time.fixedDeltaTime;
-        disp_feels.text = ((int)m_feels).ToString();
+        disp_feels.text = m_feels.ToString();
     }
 
     void setNbMovie(int idx)

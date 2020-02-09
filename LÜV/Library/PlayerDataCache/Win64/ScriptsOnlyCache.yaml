@@ -51,17 +51,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11126}
+      Script: {instanceID: 11164}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11334}
     - Class: 114
-      Script: {instanceID: 11750}
+      Script: {instanceID: 11466}
     - Class: 114
-      Script: {instanceID: 12634}
+      Script: {instanceID: 11790}
     - Class: 114
-      Script: {instanceID: 13012}
+      Script: {instanceID: 12678}
     - Class: 114
-      Script: {instanceID: 44000}
+      Script: {instanceID: 13056}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -102,17 +102,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11126}
+      Script: {instanceID: 11164}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11334}
     - Class: 114
-      Script: {instanceID: 11750}
+      Script: {instanceID: 11466}
     - Class: 114
-      Script: {instanceID: 12634}
+      Script: {instanceID: 11790}
     - Class: 114
-      Script: {instanceID: 13012}
+      Script: {instanceID: 12678}
     - Class: 114
-      Script: {instanceID: 44000}
+      Script: {instanceID: 13056}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -159,37 +159,37 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11126}
+      Script: {instanceID: 11164}
     - Class: 114
-      Script: {instanceID: 11280}
+      Script: {instanceID: 11318}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11334}
     - Class: 114
-      Script: {instanceID: 11336}
+      Script: {instanceID: 11374}
     - Class: 114
-      Script: {instanceID: 11444}
+      Script: {instanceID: 11484}
     - Class: 114
-      Script: {instanceID: 11478}
+      Script: {instanceID: 11518}
     - Class: 114
-      Script: {instanceID: 11750}
+      Script: {instanceID: 11790}
     - Class: 114
-      Script: {instanceID: 12136}
+      Script: {instanceID: 12176}
     - Class: 114
-      Script: {instanceID: 12256}
+      Script: {instanceID: 12296}
     - Class: 114
-      Script: {instanceID: 12634}
+      Script: {instanceID: 12330}
     - Class: 114
-      Script: {instanceID: 12692}
+      Script: {instanceID: 12524}
     - Class: 114
-      Script: {instanceID: 12806}
+      Script: {instanceID: 12678}
     - Class: 114
-      Script: {instanceID: 13012}
+      Script: {instanceID: 12736}
     - Class: 114
-      Script: {instanceID: 77284}
+      Script: {instanceID: 12850}
     - Class: 114
-      Script: {instanceID: 82914}
+      Script: {instanceID: 13056}
     - Class: 114
-      Script: {instanceID: 105068}
+      Script: {instanceID: 13058}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -309,6 +309,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 4ce15e99c635d2567873d27549d1f16f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Cinematic
   - hash:
       serializedVersion: 2
       Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
@@ -479,6 +485,12 @@ ScriptsOnlyBuild:
     className: GameManager
   - hash:
       serializedVersion: 2
+      Hash: 4a6ae1d16d46ee433d6587c326ef8be1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HandleSound
+  - hash:
+      serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -525,6 +537,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 9045d2309c578affd8d586a49fdd038c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StartGame
   - hash:
       serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
@@ -641,6 +659,12 @@ ScriptsOnlyBuild:
     className: StandaloneInputModule
   - hash:
       serializedVersion: 2
+      Hash: 4a23b714fc551e446f37ace44bd33387
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HandleSmiles
+  - hash:
+      serializedVersion: 2
       Hash: aa88ae22474df55295327e4ee99e5a24
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -669,33 +693,9 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 4ce15e99c635d2567873d27549d1f16f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Cinematic
-  - hash:
-      serializedVersion: 2
-      Hash: 4a6ae1d16d46ee433d6587c326ef8be1
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: HandleSound
-  - hash:
-      serializedVersion: 2
-      Hash: 4a23b714fc551e446f37ace44bd33387
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: HandleSmiles
-  - hash:
-      serializedVersion: 2
-      Hash: 9045d2309c578affd8d586a49fdd038c
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: StartGame
   platform: 19
   scenePathNames:
   - Assets/Scenes/Intro.unity
   - Assets/Scenes/MainGame.unity
   - Assets/Scenes/Ending.unity
-  playerPath: "C:/Users/antho/Desktop/L\xDCV/Build/L\xDCV.exe"
+  playerPath: "C:/Users/antho/Desktop/LUV/L\xDCV/Build/L\xDCV.exe"
